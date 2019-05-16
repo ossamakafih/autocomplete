@@ -6,7 +6,7 @@ class Trie  {
   var value: Option[String] = None
 
 
-  protected def add(char: Char): Trie = {
+  def add(char: Char): Trie = {
     val trie = new Trie
     children = children + (char -> trie)
     trie
