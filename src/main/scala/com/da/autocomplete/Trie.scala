@@ -15,7 +15,7 @@ class Trie  {
 
   def insert(word: String) = {
     val child = DeepestChild(prefix = word,
-      defaultWhenNotFound = (char, trie) => trie.add(char))
+      default = (char, trie) => trie.add(char))
     child.value = Some(word)
   }
 
@@ -32,21 +32,21 @@ class Trie  {
   }
 
 
-  def allValues: Set[String] = {
-    value.fold[Set[String]](Set.empty)(Set(_)) ++ children.flatMap{ case(_, trie) => trie.allValues}
+  def traverseTrie: Set[String] = {
+    value.fold[Set[String]](Set.empty)(Set(_)) ++ children.flatMap{ case(_, trie) => trie.traverseTrie}
   }
 
 
   def autocomplete(prefix: String): collection.mutable.SortedSet[String] = {
     val child = DeepestChild(prefix,
-      defaultWhenNotFound = (_,_) => new Trie)
-    collection.mutable.SortedSet(child.allValues.toList: _*)
+      default = (_,_) => new Trie)
+    collection.mutable.SortedSet(child.traverseTrie.toList: _*)
   }
 
-  private def DeepestChild(prefix: String, defaultWhenNotFound: (Char, Trie) => Trie): Trie = {
+  private def DeepestChild(prefix: String, default: (Char, Trie) => Trie): Trie = {
     var current = this
     prefix.foreach { (char: Char) =>
-      current = current.children.getOrElse(char, defaultWhenNotFound(char, current))
+      current = current.children.getOrElse(char, default(char, current))
     }
     current
   }

@@ -20,6 +20,6 @@ object App {
     for (word <- lines){
       trie.insert(word)
     }
-    trie.autocomplete("pr").foreach(word => print(word + "\n"))
+    trie.autocomplete("pr").foreach(word => println(word))
   }
 }

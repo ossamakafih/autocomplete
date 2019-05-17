@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c38eda01-e1b9-4e2f-bf54-54ac92c82dce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/da/autocomplete/App.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/da/autocomplete/App.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/com/da/autocomplete/Trie.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/da/autocomplete/Trie.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/scala/com/da/autocomplete/AutoCompleteTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/com/da/autocomplete/AutoCompleteTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/autocomplete-trie/autocomplete-trie$sources_2.11/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/autocomplete-trie/autocomplete-trie$sources_2.11/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/autocomplete-trie/autocomplete-trie$sources_2.11/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/autocomplete-trie/autocomplete-trie$sources_2.11/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/autocomplete-trie-autocomplete-trie$sources_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,8 +35,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -25,7 +43,7 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
@@ -56,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/scala/com/da/autocomplete/AutoCompleteTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="585">
+              <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -65,8 +83,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/da/autocomplete/Trie.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            <state relative-caret-position="255">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -82,8 +100,8 @@
         <option value="$PROJECT_DIR$/project/build.properties" />
         <option value="$PROJECT_DIR$/src/main/scala/com/da/autocomplete/Model/Node.scala" />
         <option value="$PROJECT_DIR$/word" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/da/autocomplete/App.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/da/autocomplete/Trie.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/da/autocomplete/App.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/com/da/autocomplete/AutoCompleteTest.scala" />
       </list>
     </option>
@@ -101,6 +119,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,11 +159,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="autocomplete-trie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autocomplete-scala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="ScalaTest.AutoCompleteTest.insert char in trie">
+  <component name="RunManager" selected="ScalaTest.AutoCompleteTest.insert word in trie">
     <configuration name="App" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.da.autocomplete.App" />
       <module name="autocomplete-trie" />
@@ -255,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="ScalaTest.AutoCompleteTest.insert char in trie" />
+        <item itemvalue="ScalaTest.AutoCompleteTest.insert word in trie" />
         <item itemvalue="Application.App" />
+        <item itemvalue="ScalaTest.AutoCompleteTest.insert char in trie" />
         <item itemvalue="ScalaTest.AutoCompleteTest.autocomplete" />
         <item itemvalue="ScalaTest.AutoCompleteTest.insert word in trie" />
-        <item itemvalue="ScalaTest.AutoCompleteTest.Trie is empty" />
       </list>
     </recent_temporary>
   </component>
@@ -318,18 +343,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AutoCompleteTest_insert_word_in_trie - 2019.05.16 at 15h 17m 14s.xml">
-      <configuration name="AutoCompleteTest.insert word in trie" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="AutoCompleteTest_insert_word_in_trie - 2019.05.16 at 15h 17m 29s.xml">
-      <configuration name="AutoCompleteTest.insert word in trie" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="AutoCompleteTest_insert_word_in_trie - 2019.05.16 at 15h 18m 56s.xml">
-      <configuration name="AutoCompleteTest.insert word in trie" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="AutoCompleteTest_insert_word_in_trie - 2019.05.16 at 15h 19m 06s.xml">
-      <configuration name="AutoCompleteTest.insert word in trie" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
     <history-entry file="AutoCompleteTest_insert_word_in_trie - 2019.05.16 at 15h 19m 54s.xml">
       <configuration name="AutoCompleteTest.insert word in trie" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
@@ -348,56 +361,62 @@
     <history-entry file="AutoCompleteTest_autocomplete - 2019.05.16 at 15h 25m 21s.xml">
       <configuration name="AutoCompleteTest.autocomplete" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
+    <history-entry file="AutoCompleteTest_insert_word_in_trie - 2019.05.17 at 10h 03m 06s.xml">
+      <configuration name="AutoCompleteTest.insert word in trie" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="AutoCompleteTest_insert_word_in_trie - 2019.05.17 at 10h 03m 15s.xml">
+      <configuration name="AutoCompleteTest.insert word in trie" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="AutoCompleteTest_insert_word_in_trie - 2019.05.17 at 10h 03m 37s.xml">
+      <configuration name="AutoCompleteTest.insert word in trie" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="AutoCompleteTest_insert_word_in_trie - 2019.05.17 at 10h 04m 32s.xml">
+      <configuration name="AutoCompleteTest.insert word in trie" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="DB Browser" />
-      <window_info id="UI Designer" />
-      <window_info id="Project Explorer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Job Explorer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.255119" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" weight="0.3297414" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.3297414" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.3297414" />
-      <window_info anchor="bottom" id="Console" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Project Explorer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33045357" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33045357" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="sbt" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3297414" />
+      <window_info active="true" anchor="bottom" id="sbt-shell-toolwindow" order="8" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3297414" />
+      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="DB Execution Console" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="sbt" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/da/autocomplete/Model/Node.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/da/autocomplete/Model/Node.scala" />
     <entry file="file://$PROJECT_DIR$/word">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -419,6 +438,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/da/autocomplete/Trie.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/da/autocomplete/App.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -426,17 +452,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/da/autocomplete/Trie.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/com/da/autocomplete/AutoCompleteTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="585">
+          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
         </state>
       </provider>
     </entry>
