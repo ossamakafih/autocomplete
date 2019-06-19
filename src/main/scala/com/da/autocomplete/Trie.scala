@@ -40,7 +40,7 @@ class Trie  {
   def autocomplete(prefix: String): collection.mutable.SortedSet[String] = {
     val child = DeepestChild(prefix,
       default = (_,_) => new Trie)
-    collection.mutable.SortedSet(child.traverseTrie.toList: _*)
+    collection.mutable.SortedSet(child.traverseTrie.toList.take(4): _*)
   }
 
   private def DeepestChild(prefix: String, default: (Char, Trie) => Trie): Trie = {
